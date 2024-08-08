@@ -3,7 +3,7 @@
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="right" width=300px alt="Unicorn" src="https://tenor.com/wGIz.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajloeWQzNmxuZ3k5M3U1N2xrcm56bTRzbjlweDVianpuZnMwdGlnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KJWgJrUbqPsB2gvSIt/giphy.gif" />
 
 
 ***Sobre mí***
